@@ -1,0 +1,8 @@
+[package]
+name = "colored_tiling"
+version = "0.1.0"
+authors = ["Howard Huang <howeih@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
