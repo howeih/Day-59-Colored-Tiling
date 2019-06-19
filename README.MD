@@ -2,7 +2,8 @@ Day 59: Colored Tiling
 <br>
 We have a stock of tiles with colored edges at our disposal and there’s a wall we need to tile up. However, there are two catches. The stock is limited and if two tiles touch each other, their edges must match on color.
 <br>
-![image]("images/ex1.png")
+![Alt text](images/ex1.png?raw=true "Tiling")
+<br>
 run:
 ```
 
